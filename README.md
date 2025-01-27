@@ -1,0 +1,1 @@
+https://hub.docker.com/repository/docker/fabianolc/fullcycle/tags/latest/sha256:f96b0982592d478d0b18482f80919120358f47b4215d582919d001967da22029
